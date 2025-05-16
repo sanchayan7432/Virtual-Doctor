@@ -1,0 +1,1 @@
+streamlit run "D:\mini_project_1\medical.py"
